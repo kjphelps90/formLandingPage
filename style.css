@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ul {
+    text-align: right;
+}
+
+
+li {
+    display: inline;
+    text-decoration: none;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: white;
+    line-height: 90px;
+}
+
+header {
+    background-color: rgb(31, 94, 68);
+    height: 90px;
+    margin-bottom: 30px;
+    border-bottom: 10px solid rgb(241, 190, 181);
+}
+
+main {
+    color:rgb(97, 24, 24);
+    border-bottom: 5px solid rgb(233, 127, 108);
+}
+
+.text-center {
+    text-align: center;
+
+}
+
+form {
+    padding: 20px;
+}
+
+form div {
+    margin: 10px;
+    text-align: center;
+}
+
+input {
+    width: 300px;
+}
+
+.contact-section {
+    background-color: rgb(241, 190, 181);
+    color:rgb(97, 24, 24);
+    padding: 40px 0 0 0;
+}
+
+.border-box {
+    border: 2px solid rgb(233, 127, 108);
+    border-radius: 15px;
+    padding: 10px 30px;
+    display: inline-block;
+}
+
+
+figure {
+    display: flex;
+    justify-content: center;
+    padding: 20px
+}
+
+.button {
+    background-color: rgb(49, 43, 43);
+    color: white;
+    font-size: 14px;
+    margin: 0;
+    padding :4px 2px;
+    width: 100px;
+}
+
+footer {
+    padding: 20px 0;
+    margin: 0;
+    background-color: rgb(31, 94, 68);
+    color: whitesmoke;
+    font-weight: bold;
+    border-bottom: 10px solid rgb(31, 94, 68);
+}
+
